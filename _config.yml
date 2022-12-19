@@ -15,13 +15,13 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Yoann Morin"
-keywords:    "Yoann Morin, Yoann, Morin, economics, agglomeration, agglomeration economies, urban economics, regional economics, regional science, urban, training, labour economics, growth, spatial econometrics, economic geography, growth, human capital, developmnent economics, development, mining, conflict"
+keywords:    "Yoann Morin, Yoann, Morin, economics, agglomeration, agglomeration economies, urban economics, regional economics, regional science, urban, training, labour economics, growth, spatial econometrics, economic geography, growth, human capital, developmnent economics, development, mining, conflict, causal inference"
 description: "Personnal page of Yoann Morin"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:
 
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key:G-MC3E2VR1FK  ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
