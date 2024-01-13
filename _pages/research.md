@@ -81,8 +81,3 @@ Lionel Védrine and Laurent Wagner).
 <br>
 
 <b>Do Spatial Effects Explain Human Capital Returns to Economic Development?</b> (with Lionel Védrine).
-
-
-
-[Draft](https://github.com/yoannmorin/RC-SDID/blob/aa164f12af0e8f1e9ac923210244347b8bed1afa/draft_rcsdid.pdf){:target="_blank"}
-
