@@ -14,6 +14,7 @@ I am a Postdoctoral Researcher in Economics at the [CESAER](https://www2.dijon.i
 
 My research interest are:
 - <font size="4">Regional and Urban Economics</font>
+- <font size="4">Environmental and Resource Economics</font>
 - <font size="4">Development economics</font>
 - <font size="4">Labour Economics</font>
 - <font size="4">Housing economics</font>
