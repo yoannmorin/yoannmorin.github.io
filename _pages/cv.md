@@ -34,6 +34,10 @@ A PDF version of my CV can be found <a href="https://raw.githubusercontent.com/y
   * Lycée Anna-judic, Semur-en-Auxois, France
   
 ## Communications
+* 2024
+  * Environmental Economics: A Focus on Natural Resources (Orléans, France)
+  * Forthcoming: 40èmes Journées de Microéconomie Appliquée (Lille, France)
+  * Forthcoming: 63rd ERSA Congress (Terceira Island, Azores, Portugal)
 * 2023
   * 22th journées Louis-André Gérard-Varet (Marseille, France)
   * Conférence Évaluation des politiques publiques 2023, AFSE-Trésor (Paris, France)
