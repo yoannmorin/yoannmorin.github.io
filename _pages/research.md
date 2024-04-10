@@ -26,7 +26,7 @@ The synthetic difference-in-differences method provides an efficient method to e
 
 <br>
 
-<div style="margin-bottom:-2px;"> <b>PARIS2019: The impact of rent control on the Parisian rental market</b> (with Marie Breuillé, Julie Le Gallo and Martin Regnaud).
+<div style="margin-bottom:-2px;"> <b>PARIS2019: The impact of rent control on the Parisian rental market</b> (with Marie Breuillé, Julie Le Gallo and Martin Regnaud). <em>Submitted</em>
 </div>
 {% capture details %}
 Forthcoming.
