@@ -31,7 +31,7 @@ The synthetic difference-in-differences method provides an efficient method to e
 {% capture details %}
 We evaluate the impact of the rent control regulation implemented by the city of Paris in July 2019 on the Parisian rental market. We take advantage of the large amount of data available in real-time on the SeLoger platform containing the ads published by professional realtors. Using a database of 559,300 observations from January 2018 to June 2023, we apply a difference-in-differences model, where control units are located in eight major French cities in which the rental market is particularly tense but not regulated during the analysis period. We show that the rent control policy decreased rents by 3.7% to 4.2% in Paris on average. Yet, the policy is heterogeneous depending on dwelling characteristics with a stronger effect on small apartments. We also esti- mate the higher bound of the effectiveness of the policy and show that if every dwelling respected the rent caps, rents would have decreased by 8.2% to 8.7%.
 {% endcapture %}
-{% capture summary %}<small>[ <a style="cursor: pointer;"> Abstract</a> ]</small>{% endcapture %}{% include details.html %}
+{% capture summary %}<small>[ <a style="cursor: pointer;"> Abstract</a> | [Institutional Report (French)](https://www.apur.org/fr/nos-travaux/effets-encadrement-des-loyers-paris){:target="_blank"}]</small>{% endcapture %}{% include details.html %}
 
 <br>
 
