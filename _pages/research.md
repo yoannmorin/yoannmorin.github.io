@@ -11,7 +11,7 @@ author_profile: true
 {% capture details %}
 This paper examines empirically the economic relationship between local labour market size and firm returns to training. Anchoring in the literature of micro-foundation of agglomeration economies, we suspect that this relation is driven by two mechanisms: (i) labour pooling which should positively influence the returns to training through matching and learning effects and (ii) the risk of labour poaching, which tends to reduce the returns to training in larger labour markets. Our estimates, based on a large sample of French industrial firms, reveal that returns to training are increasing with the labour market size, suggesting that labour pooling dominates labour poaching effects. On average, returns to training lie between 6.7 and 7.7%, more in line with the microeconomic literature on education than previous studies focusing on training.
 {% endcapture %}
-{% capture summary %}<small>[ <a style="cursor: pointer;"> Abstract</a> | [Paper](https://rsaiconnect.onlinelibrary.wiley.com/doi/10.1111/pirs.12691){:target="_blank"} ]</small>{% endcapture %}{% include details.html %}
+{% capture summary %}<small>[ <a style="cursor: pointer;"> Abstract</a> | [Paper (Open Access)](https://doi.org/10.1111/pirs.12691){:target="_blank"} ]</small>{% endcapture %}{% include details.html %}
 
 
 
