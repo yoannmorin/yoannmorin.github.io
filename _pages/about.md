@@ -10,7 +10,7 @@ redirect_from:
 Welcome to my personal page!
 
 
-I am an Associate Professor of Economics at the [University of Poitiers](https://www.univ-poitiers.fr/). I am affiliated with the [LéP](https://lep.labo.univ-poitiers.fr/).
+I am an Assistant Professor of Economics at the [University of Poitiers](https://www.univ-poitiers.fr/). I am affiliated with the [LéP](https://lep.labo.univ-poitiers.fr/).
 
 Previously, I was a Postdoctoral Researcher in Economics at the [CESAER](https://www2.dijon.inrae.fr/cesaer/) (Center of Economics and Sociology Applied to Rural Areas).
 
