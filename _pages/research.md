@@ -22,7 +22,7 @@ This paper examines empirically the economic relationship between local labour m
 {% capture details %}
 The synthetic difference-in-differences method provides an efficient method to estimate a causal effect with a latent factor model. However, it relies on the use of panel data. This paper  presents an adaptation of the synthetic difference-in-differences method for repeated cross-sectional data. The treatment is considered to be at the group level. Thus, it is possible to aggregate data by group to compute the two types of synthetic difference-in-differences weights on these aggregated data. Then, I compute a third type of weight that account for the different number of observations for each cross-section. I also provide simulation results showing the performance of the synthetic difference-in-differences estimator is improved when using the third type of weights on repeated cross-sectional data.
 {% endcapture %}
-{% capture summary %}<small>[ <a style="cursor: pointer;"> Abstract</a> | [Draft](https://raw.githubusercontent.com/yoannmorin/RC-SDID/aa164f12af0e8f1e9ac923210244347b8bed1afa/draft_rcsdid.pdf){:target="_blank"} | [Code](https://github.com/yoannmorin/RC-SDID){:target="_blank"} ]</small>{% endcapture %}{% include details.html %}
+{% capture summary %}<small>[ <a style="cursor: pointer;"> Abstract</a> | [Draft](https://arxiv.org/abs/2409.20199){:target="_blank"} | [Code](https://github.com/yoannmorin/RC-SDID){:target="_blank"} ]</small>{% endcapture %}{% include details.html %}
 
 <br>
 
