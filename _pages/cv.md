@@ -6,10 +6,13 @@ redirect_from:
   - /resume
 ---
 
-A PDF version of my CV can be found <a href="https://raw.githubusercontent.com/yoannmorin/my_cv/4e91195e7ed1eb4de6d9ca201930b713b1a71891/cv.pdf" target="_blank" style="color:#33b8ff;">here.
+[//]: # (A PDF version of my CV can be found <a href="https://raw.githubusercontent.com/yoannmorin/my_cv/4e91195e7ed1eb4de6d9ca201930b713b1a71891/cv.pdf" target="_blank" style="color:#33b8ff;">here.)
+
 
 ## Academic positions
-* 2022 - : Postdoctoral researcher 
+* 2024 - : Associate Professor of Economics
+  * Laboratoire d'économie de Poitiers, université de Poitiers, France
+* 2022 - 2024 : Postdoctoral researcher 
   * CESAER UMR 1041, INRAE, Institut Agro, Université de Bourgogne Franche-Comté, Dijon, France
 * 2020 - 2022: Temporary research and teaching assistant
   * Université Clermont Auvergne
@@ -34,10 +37,12 @@ A PDF version of my CV can be found <a href="https://raw.githubusercontent.com/y
   * Lycée Anna-judic, Semur-en-Auxois, France
   
 ## Communications
+* 2025
+  * 41èmes Journées de Microéconomie Appliquée (Poitiers, France)
+  * Conférence Théorie et Evaluation des Politiques Publiques (Rennes, France)
 * 2024
   * Environmental Economics: A Focus on Natural Resources (Orléans, France)
-  * Forthcoming: 40èmes Journées de Microéconomie Appliquée (Lille, France)
-  * Forthcoming: 63rd ERSA Congress (Terceira Island, Azores, Portugal)
+  * 63rd ERSA Congress (Terceira Island, Azores, Portugal)
 * 2023
   * 22th journées Louis-André Gérard-Varet (Marseille, France)
   * Conférence Évaluation des politiques publiques 2023, AFSE-Trésor (Paris, France)

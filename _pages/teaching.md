@@ -6,6 +6,46 @@ author_profile: true
 
 <br/>
 
+
+
+## 2025 - : Teacher in History of Economic Thought
+
+Université de Poitiers
+
+
+
+## 2025 - : Teacher in Data Mining
+
+Université de Poitiers
+
+
+
+## 2025 - : Teacher in Introduction to Python
+
+Université de Poitiers
+
+
+
+## 2024 - : Teacher in Introduction to R
+
+Université de Poitiers
+
+
+
+## 2024 - : Teacher in Applied Microeconomics
+
+Université de Poitiers
+
+
+
+## 2024 - : Teacher in Macroeconomics and Economic Policies
+
+Université de Poitiers
+
+
+
+
+
 ## 2022 - 2024: Teacher in Spatial Econometrics 
 
 ENSAI.

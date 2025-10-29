@@ -13,6 +13,16 @@ This paper examines empirically the economic relationship between local labour m
 {% endcapture %}
 {% capture summary %}<small>[ <a style="cursor: pointer;"> Abstract</a> | [Paper (Open Access)](https://doi.org/10.1111/pirs.12691){:target="_blank"} ]</small>{% endcapture %}{% include details.html %}
 
+<br>
+
+<div style="margin-bottom:-2px;"> <b>PARIS2019: The impact of rent control on the Parisian rental market</b> (with Marie Breuillé, Julie Le Gallo and Martin Regnaud). <em>Journal of Housing Economics</em>. 2025
+</div>
+{% capture details %}
+We evaluate the impact of the rent control regulation implemented by the city of Paris in July 2019 on the Parisian rental market. We take advantage of the large amount of real-time data available on the SeLoger platform containing the ads published by professional realtors. Using a database of 559,300 observations from January 2018 to June 2023, we apply a difference-in-differences model, where control units are located in eight major French cities in which the rental market is particularly tense but not regulated during the analysis period. We show that the rent control policy decreased rents by 3.7% to 4.2% in Paris on average. Yet, the effect of the policy is heterogeneous depending on dwelling characteristics, with a stronger effect on small apartments. We also estimate the upper bound of the effectiveness of the policy and show that if every dwelling respected the rent control, rents would have decreased by 8.2% to 8.7%. We confirm the effectiveness of the rent control policy by extending the analysis to five additional regulated cities using a staggered difference-in-differences strategy, which reinforces the external validity of our findings. Finally, we examine whether the policy affected the supply of rental housing, proxied by the number of new listings published by agencies. We find no evidence of a decline in supply attributable to the rent control.
+{% endcapture %}
+{% capture summary %}<small>[ <a style="cursor: pointer;"> Abstract</a> | [Institutional Report (French)](https://www.apur.org/fr/logement-hebergement/evolution-parc-logements/effets-encadrement-loyers-paris){:target="_blank"} | [Paper (Open Access)](https://doi.org/10.1016/j.jhe.2025.102101){:target="_blank"}] </small>{% endcapture %}{% include details.html %}
+
+
 
 
 
@@ -24,14 +34,6 @@ The synthetic difference-in-differences method provides an efficient method to e
 {% endcapture %}
 {% capture summary %}<small>[ <a style="cursor: pointer;"> Abstract</a> | [Draft](https://arxiv.org/abs/2409.20199){:target="_blank"} | [Code](https://github.com/yoannmorin/RC-SDID){:target="_blank"} ]</small>{% endcapture %}{% include details.html %}
 
-<br>
-
-<div style="margin-bottom:-2px;"> <b>PARIS2019: The impact of rent control on the Parisian rental market</b> (with Marie Breuillé, Julie Le Gallo and Martin Regnaud). <em>Submitted</em>
-</div>
-{% capture details %}
-We evaluate the impact of the rent control regulation implemented by the city of Paris in July 2019 on the Parisian rental market. We take advantage of the large amount of data available in real-time on the SeLoger platform containing the ads published by professional realtors. Using a database of 559,300 observations from January 2018 to June 2023, we apply a difference-in-differences model, where control units are located in eight major French cities in which the rental market is particularly tense but not regulated during the analysis period. We show that the rent control policy decreased rents by 3.7% to 4.2% in Paris on average. Yet, the policy is heterogeneous depending on dwelling characteristics with a stronger effect on small apartments. We also esti- mate the higher bound of the effectiveness of the policy and show that if every dwelling respected the rent caps, rents would have decreased by 8.2% to 8.7%.
-{% endcapture %}
-{% capture summary %}<small>[ <a style="cursor: pointer;"> Abstract</a> | [Institutional Report (French)](https://www.apur.org/fr/nos-travaux/effets-encadrement-des-loyers-paris){:target="_blank"}]</small>{% endcapture %}{% include details.html %}
 
 <br>
 
